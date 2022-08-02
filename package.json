@@ -1,0 +1,8 @@
+{
+  "name": "easy-dom-manager",
+  "version": "1.0.0",
+  "description": "Less verbose DOM manager",
+  "main": "src/index.js",
+  "author": "Sergio RG"
+  
+}
